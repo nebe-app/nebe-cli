@@ -1,0 +1,22 @@
+{
+	"name": "nebe-devstack",
+	"version": "1.0.0",
+	"description": "Development stack for creating Nebe creatives",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nebe-app/devstack.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/nebe-app/devstack/issues"
+	},
+	"homepage": "https://github.com/nebe-app/devstack#readme",
+	"bin": {
+		"nebe": "./cli.js"
+	}
+}
