@@ -17,6 +17,6 @@
 	},
 	"homepage": "https://github.com/nebe-app/nebe-cli#readme",
 	"bin": {
-		"nebe": "./cli.js"
+		"nebe": "./bin/index.js"
 	}
 }
