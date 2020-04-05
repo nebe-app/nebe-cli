@@ -1,5 +1,5 @@
 {
-	"name": "nebe-devstack",
+	"name": "nebe-cli",
 	"version": "1.0.0",
 	"description": "Development stack for creating Nebe creatives",
 	"main": "index.js",
@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/nebe-app/devstack.git"
+		"url": "git+https://github.com/nebe-app/nebe-cli.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/nebe-app/devstack/issues"
+		"url": "https://github.com/nebe-app/nebe-cli/issues"
 	},
-	"homepage": "https://github.com/nebe-app/devstack#readme",
+	"homepage": "https://github.com/nebe-app/nebe-cli#readme",
 	"bin": {
 		"nebe": "./cli.js"
 	}
