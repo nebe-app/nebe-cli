@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Development stack for creating Nebe creatives",
 	"main": "./bin/index.js",
 	"scripts": {
@@ -21,7 +21,7 @@
 	},
 	"dependencies": {
 		"chalk": "^4.0.0",
-		"lodash": "^4.17.15",
+		"lodash": ">=4.17.19",
 		"opn": "^6.0.0",
 		"update-notifier": "^4.1.0"
 	}
