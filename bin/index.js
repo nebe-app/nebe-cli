@@ -23,6 +23,6 @@ checkForUpdate();
 (async () => {
 	const CommandClass = require(`../lib/commands/${commandName}.js`);
 	const command = new CommandClass();
-	await command.handle();
+	await command.handle(args.shift());
 	process.exit(0);
 })();
