@@ -23,6 +23,8 @@ checkForUpdate();
 (async () => {
 	const CommandClass = require(`../lib/commands/${commandName}.js`);
 	const command = new CommandClass();
-	await command.handle(args.shift());
+	const commandIndex = process.argv.indexOf(commandName);
+	const commandArgs = commandIndex > 0 ? process.argv.slice(commandIndex + 1) : [];
+	await command.handle(commandArgs);
 	process.exit(0);
 })();
