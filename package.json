@@ -18,5 +18,11 @@
 	"homepage": "https://github.com/nebe-app/nebe-cli#readme",
 	"bin": {
 		"nebe": "./bin/index.js"
+	},
+	"dependencies": {
+		"chalk": "^4.0.0",
+		"lodash": "^4.17.15",
+		"opn": "^6.0.0",
+		"update-notifier": "^4.1.0"
 	}
 }
