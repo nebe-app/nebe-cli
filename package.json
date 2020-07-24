@@ -20,10 +20,14 @@
 		"nebe": "./bin/index.js"
 	},
 	"dependencies": {
+		"axios": "^0.19.2",
 		"chalk": "^4.0.0",
 		"configstore": "^5.0.1",
+		"inquirer": "^7.3.3",
 		"lodash": ">=4.17.19",
 		"opn": "^6.0.0",
+		"prompt": "^1.0.0",
+		"simple-git": "^2.15.0",
 		"update-notifier": "^4.1.0"
 	}
 }
