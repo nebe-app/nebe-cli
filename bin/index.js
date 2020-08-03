@@ -31,5 +31,8 @@ const checkInstall = require('../lib/utils/checkInstall.js');
 	const commandIndex = process.argv.indexOf(commandName);
 	const commandArgs = commandIndex > 0 ? process.argv.slice(commandIndex + 1) : [];
 	await command.handle(commandArgs);
-	process.exit(0);
+
+	if (command.keepRunning !== true) {
+		process.exit(0);
+	}
 })();
