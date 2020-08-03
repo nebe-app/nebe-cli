@@ -10,3 +10,13 @@ npm install nebe-cli --global
 ```bash
 yarn global add nebe-cli
 ```
+
+
+
+
+[InternetShortcut]
+URL=http://www.yourfavweb.com/
+IconIndex=0
+
+
+
