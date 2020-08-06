@@ -17,7 +17,7 @@ const checkInstall = require('../lib/utils/checkInstall.js');
 		commandName = _.toString(args[0]);
 	}
 
-	if (commandName !== 'install') {
+	if (commandName !== 'install' && commandName !== 'login' && commandName !== 'help') {
 		await checkInstall();
 	}
 
