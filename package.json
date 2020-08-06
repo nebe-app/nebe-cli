@@ -1,7 +1,7 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.13",
-	"description": "Development stack for creating Nebe creatives",
+	"version": "1.0.14",
+	"description": "Development stack for creating Nebe visuals",
 	"main": "./bin/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
