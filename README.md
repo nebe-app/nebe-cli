@@ -11,12 +11,6 @@ npm install nebe-cli --global
 yarn global add nebe-cli
 ```
 
+Documentation and installation guide: on https://www.nebe.app/docs
 
-
-
-[InternetShortcut]
-URL=http://www.yourfavweb.com/
-IconIndex=0
-
-
-
+Get list of available commands: `nebe help`
