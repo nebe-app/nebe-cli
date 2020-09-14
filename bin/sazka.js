@@ -2,4 +2,5 @@
 
 const app = require('../lib/app.js');
 
+global.sazka = true;
 app();
