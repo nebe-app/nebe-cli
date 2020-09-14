@@ -29,7 +29,7 @@
 		"fs-extra": "^9.0.1",
 		"inquirer": "^7.3.3",
 		"lodash": ">=4.17.19",
-		"opn": "^6.0.0",
+		"open": "^7.2.1",
 		"parcel-bundler": "^1.12.4",
 		"pdf2pic": "^1.4.0",
 		"prompt": "^1.0.0",
