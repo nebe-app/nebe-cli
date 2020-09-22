@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.37",
+	"version": "1.0.38",
 	"description": "Development stack for creating N.E.B.E. visuals",
 	"main": "./bin/index.js",
 	"scripts": {
@@ -28,6 +28,8 @@
 		"configstore": "^5.0.1",
 		"flatted": "^3.0.4",
 		"fs-extra": "^9.0.1",
+		"gm": "^1.23.1",
+		"gs": "0.0.2",
 		"inquirer": "^7.3.3",
 		"lodash": ">=4.17.19",
 		"open": "^7.2.1",
