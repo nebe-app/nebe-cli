@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.40",
+	"version": "1.0.41",
 	"description": "Development stack for creating N.E.B.E. visuals",
 	"main": "./bin/index.js",
 	"scripts": {
@@ -24,6 +24,7 @@
 		"@sentry/node": "^5.23.0",
 		"axios": "^0.19.2",
 		"chalk": "^4.0.0",
+		"cli-spinners": "^2.4.0",
 		"cli-table": "^0.3.1",
 		"configstore": "^5.0.1",
 		"flatted": "^3.0.4",
