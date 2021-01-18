@@ -22,7 +22,7 @@
 	},
 	"dependencies": {
 		"@sentry/node": "^5.23.0",
-		"axios": "^0.19.2",
+		"axios": "^0.21.1",
 		"chalk": "^4.0.0",
 		"cli-spinners": "^2.4.0",
 		"cli-table": "^0.3.1",
