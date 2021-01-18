@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.48",
+	"version": "1.0.49",
 	"description": "Development stack for creating N.E.B.E. visuals",
 	"main": "./bin/index.js",
 	"scripts": {
