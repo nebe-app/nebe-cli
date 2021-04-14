@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.56",
+	"version": "1.0.57",
 	"description": "Development stack for creating N.E.B.E. visuals",
 	"main": "./bin/index.js",
 	"scripts": {
@@ -17,8 +17,8 @@
 	},
 	"homepage": "https://github.com/nebe-app/nebe-cli#readme",
 	"bin": {
-		"nebe": "./bin/index.js",
-		"nebe-sazka": "./bin/sazka.js"
+		"nebe": "bin/index.js",
+		"nebe-sazka": "bin/sazka.js"
 	},
 	"dependencies": {
 		"@sentry/node": "^5.23.0",
