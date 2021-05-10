@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.63",
+	"version": "1.0.64",
 	"description": "Development stack for creating N.E.B.E. visuals",
 	"main": "./bin/index.js",
 	"scripts": {
@@ -22,7 +22,7 @@
 	},
 	"dependencies": {
 		"@sentry/node": "^5.23.0",
-		"autoprefixer": "^10.2.5",
+		"autoprefixer": "^9.8.6",
 		"axios": "^0.21.1",
 		"chalk": "^4.0.0",
 		"cli-spinners": "^2.4.0",
@@ -38,8 +38,9 @@
 		"minimist": "^1.2.5",
 		"node-notifier": "^8.0.0",
 		"open": "^7.2.1",
-		"parcel-bundler": "^1.12.5",
+		"parcel-bundler": "^1.12.4",
 		"pdf2pic": "^1.4.0",
+		"postcss-modules": "^3.2.2",
 		"prompt": "^1.0.0",
 		"rimraf": "^3.0.2",
 		"simple-git": "^2.15.0",
