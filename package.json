@@ -11,7 +11,7 @@
 		"url": "git+https://github.com/nebe-app/nebe-cli.git"
 	},
 	"author": "Hynek Zatloukal",
-	"license": "MIT",
+	"license": "Apache-2.0",
 	"bugs": {
 		"url": "https://github.com/nebe-app/nebe-cli/issues"
 	},
