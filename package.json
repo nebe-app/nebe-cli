@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.83",
+	"version": "1.0.84",
 	"description": "Development stack for creating and editing templates",
 	"main": "./bin/index.js",
 	"scripts": {
