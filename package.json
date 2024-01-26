@@ -37,7 +37,7 @@
 		"minimist": "^1.2.5",
 		"node-notifier": "^10.0.0",
 		"open": "^8.4.0",
-		"parcel-bundler": "^1.12.5",
+		"parcel-bundler": "^1.9.4",
 		"pdf2pic": "^2.1.4",
 		"postcss-modules": "^4.3.0",
 		"prompt": "^1.2.1",
