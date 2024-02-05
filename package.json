@@ -1,6 +1,6 @@
 {
 	"name": "nebe-cli",
-	"version": "1.0.97",
+	"version": "1.0.98",
 	"description": "Development stack for creating and editing Imagelance templates",
 	"main": "./bin/index.js",
 	"scripts": {
