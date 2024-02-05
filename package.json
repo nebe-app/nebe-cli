@@ -1,7 +1,7 @@
 {
 	"name": "nebe-cli",
 	"version": "1.0.97",
-	"description": "Development stack for creating and editing templates",
+	"description": "Development stack for creating and editing Imagelance templates",
 	"main": "./bin/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,8 @@
 	},
 	"homepage": "https://github.com/nebe-app/nebe-cli#readme",
 	"bin": {
-		"nebe": "bin/index.js"
+		"nebe": "bin/index.js",
+		"lance": "bin/index.js"
 	},
 	"dependencies": {
 		"@sentry/node": "^6.16.1",
